@@ -1,9 +1,9 @@
-# Code editor
+# Kode redigeringsprogram
 
-> For readers at home: this chapter is covered in [Installing Python & Code Editor](https://www.youtube.com/watch?v=pVTaqzKZCdA&t=4m43s) video.
+> For dem der koder hjemme: dette kapitel er dækket på engelsk i [Installing Python & Code Editor](https://www.youtube.com/watch?v=pVTaqzKZCdA&t=4m43s) video.
 
-You're about to write your first line of code, so it's time to download a code editor!
+Du skal til at skrive din første kodelinje, så det på tide at downloade et kodeprogram!
 
-> **Note** You might have done this earlier in the Installation chapter - if so, you can skip right ahead to the next chapter!
+> **Bemærk** Du har muligvis gjort dette tidligere in Indstalleringskapitlet - hvis du har, så kan du bare hoppe videre til det næste kapitel!
 
 {% include "/code_editor/instructions.md" %}

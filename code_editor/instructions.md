@@ -1,34 +1,32 @@
-There are a lot of different editors and it largely boils down to personal preference. Most Python programmers use complex but extremely powerful IDEs (Integrated Development Environments), such as PyCharm. As a beginner, however, that's probably less suitable; our recommendations are equally powerful, but a lot simpler.
+Der er mange forskellige koderedigeringsprogrammer (kodeprogram) og kommer stort set an på personlig smag. De fleste Python programmører bruger komplicerede men extremt kraftfulde IDEer (integreret softwareudviklingsmiljø), så som PyCharm. Som nybegynder, er de lige i overkanten, vore foreslag er lige kraftfule mere meget simplere.
 
-Our suggestions are below, but feel free to ask your coach what their preferences are - it'll be easier to get help from them.
+Vore foreslag er nedenfor, men spørg din lærer eller venner der programmerer hvad de foretrækker - det er nemmere at få hjælphvis de kender kodeprogrammet.
 
 ## Gedit
 
-Gedit is an open-source, free editor, available for all operating systems.
+Gedit er et open-source (åben kildekode), gratis kodeprogram, der kan bruges med alle styresystemer.
 
-[Download it here](https://wiki.gnome.org/Apps/Gedit#Download)
+[Download her](https://wiki.gnome.org/Apps/Gedit#Download)
 
 ## Sublime Text 2
 
-Sublime Text is a very popular editor with a free evaluation period. It's easy to install and use, and it's available for all operating systems.
+Sublime Text er et meget populært kodeprogram med en gratis prøveperiode. Det er nemt at installere og bruge og det kan bruges med alle styresystemer.
 
-[Download it here](http://www.sublimetext.com/2)
+[Download her](http://www.sublimetext.com/2)
 
 ## Atom
 
-Atom is an extremely new code editor created by [GitHub](http://github.com/). It's free, open-source, easy to install and easy to use. It's available for Windows, OSX and Linux.
+Atom er et ekstremt let kodeprogram skabt af [GitHub](http://github.com/). Det er gratis, open-source, let at installere og let at bruge. Det kan bruges med Windows, OSX and Linux.
 
-[Download it here](https://atom.io/)
+[Download her](https://atom.io/)
 
 
+## Hvorfor installerer vi et kodeprogram?
 
-## Why are we installing a code editor?
+Du underer dig måske over hvorfor vi installerer et specielt kodeprogram, i stedet for at bruge sådan noget som Word eller Notesblok.
 
-You might be wondering why we are installing this special code editor software, rather than using something like Word or Notepad.
+Det gør vi fordi kode skrives som **kun tekst**, og problemet med programmer som Word og Textedit er at de faktisk ikke producerer kun tekst, de producerer tekst med skrifttyper og formatering ved at bruge brugerdefinerede formater, så som [RTF (Rich Text Format)](https://en.wikipedia.org/wiki/Rich_Text_Format).
 
-The first is that code needs to be **plain text**, and the problem with programs like Word and Textedit is that they don't actually produce plain text, they produce rich text (with fonts and formatting), using custom formats like [RTF (Rich Text Format)](https://en.wikipedia.org/wiki/Rich_Text_Format).
+En anden go grund er at kodeprogrammer er specielt skabt til at redigere kode, så de har funktioner der kan hjælpe, så som fremhæver kode med forskellige farver afhængigt af hvad det betyder eller sætter automatisk de lukkende gåseøjne ind koden for dig.
 
-The second reason is that code editors are specialised for editing code, so they can provide helpful features like highlighting code with colour according to its meaning, or automatically closing quotes for you.
-
-We'll see all this in action later. Soon, you'll come to think of your trusty old code editor as one of your favourite tools :)
-
+Vi ser alt dette i aktion senere. Snart, vil du tænke på dit gode gamle kodeprogram som et af dine favoritredskaber :)
